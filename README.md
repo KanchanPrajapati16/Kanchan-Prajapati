@@ -1,9 +1,9 @@
 <div align="right">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanchanprajapati/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KanchanPrajapati16)
-[![Instagram](https://img.shields.io/badge/Instagram-code__with__kp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_with_kp/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanchan166153@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanchan-prajapati-6ba953357/)
+[![GitHub](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KanchanPrajapati16)
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codes_with_kp/)
+[![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanchan166153@gmail.com)
 
 </div>
 
@@ -16,7 +16,6 @@
 ### Data Analytics · Data Science · Machine Learning · NLP
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KanchanPrajapati16&style=for-the-badge&color=1D4ED8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanchanprajapati/)
 
 </div>
 
@@ -129,19 +128,6 @@ Compares technology search trends across time with an interactive dashboard.
 - Mentorship from experienced professionals
 - Projects with genuine business impact
 - Room to grow into a strong Data/AI professional
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanchan%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanchanprajapati/)
-[![GitHub](https://img.shields.io/badge/GitHub-KanchanPrajapati16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KanchanPrajapati16)
-[![Instagram](https://img.shields.io/badge/Instagram-code__with__kp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_with_kp/)
-[![Gmail](https://img.shields.io/badge/Gmail-kanchan166153%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanchan166153@gmail.com)
-
-</div>
 
 ---
 
