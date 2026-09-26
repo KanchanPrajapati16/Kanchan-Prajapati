@@ -11,12 +11,6 @@
 
 <img src="./banner_photo_left.png" width="100%" alt="Kanchan Prajapati - Data Analyst | Data Science | ML Engineer">
 
-# Hi, I'm Kanchan Prajapati 👋
-
-### Data Analytics · Data Science · Machine Learning · NLP
-
-![Profile Views](https://komarev.com/ghpvc/?username=KanchanPrajapati16&style=for-the-badge&color=1D4ED8)
-
 </div>
 
 ---
@@ -72,23 +66,21 @@ I like turning raw data into patterns, dashboards, and models that actually mean
 
 ## 🚀 Featured Projects
 
-### 📊 [Customer Churn Prediction](#)
+### 📊 Customer Churn Prediction
 Predicts customer churn using EDA, preprocessing, and classification models to flag at-risk customers.
 `Python` `Pandas` `NumPy` `Scikit-learn` `Data Analysis`
 
-### 🚗 [Car Price Prediction](#)
+### 🚗 Car Price Prediction
 Estimates resale car prices from vehicle features using regression-based machine learning.
 `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
-### 🏨 [Hotel Revenue Insights](#)
+### 🏨 Hotel Revenue Insights
 Interactive Power BI dashboard exploring hotel revenue, booking patterns, and customer metrics.
 `Power BI` `SQL` `Data Visualization` `Business Analytics`
 
-### 🔎 [Google Trends Technology Analysis](#)
+### 🔎 Google Trends Technology Analysis
 Compares technology search trends across time with an interactive dashboard.
 `Python` `Streamlit` `Power BI` `Data Visualization`
-
-> 💡 *Tip: replace `#` above with the actual repo links so recruiters can click straight through.*
 
 ---
 
